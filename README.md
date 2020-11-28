@@ -14,5 +14,6 @@ INSTALLATION:
   
 PLANNED FEATURES:
 - Map hierarchy of Menu to Github, for ease of access and customization 
-- Create menu installer for Head-And-Hands Avatars
-
+- Create Menu installer for Head-And-Hands Avatars
+- Add grab-ability and scale-ability to individual sub-menus
+- Add "presets" options - the ability to toggle entire sets of clothing, etc with one button press
